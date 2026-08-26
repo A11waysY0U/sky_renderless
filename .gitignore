@@ -1,0 +1,45 @@
+# CMake build trees and generated project files
+/build/
+/out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+
+# Visual Studio and MSVC outputs
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+
+# Runtime logs
+nv_vulkan.log
+*.log
+
+# Editor settings and temporary files
+.vscode/
+.idea/
+*.user
+*.suo
+*.tmp
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
